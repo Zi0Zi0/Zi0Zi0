@@ -3,7 +3,7 @@
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
 - 🎓 &nbsp; <strong>Faculdade: SENAC</strong>
-- :computer: &nbsp; <strong>Cursando Analise e Desenvolvimento de Sistema</strong>
+- :computer: &nbsp; <strong>Cursando: Analise e Desenvolvimento de Sistema</strong>
 
 <h3>:atom: Competências Técnicas: </h3>
 
