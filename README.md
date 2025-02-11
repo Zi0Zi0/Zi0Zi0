@@ -5,7 +5,7 @@
   
 - 👦 Eu sou <strong>José Carlos</strong> de <strong>Recife,PE</strong>
 
-- 🔭 <strong>Atualmente cursando Análise e Desenvolvimento de Sistema na Faculdade SENAC/curso</strong>
+- 🔭 Atualmente cursando <strong>Análise e Desenvolvimento de Sistema<strong> na Faculdade <strong>SENAC/curso</strong>
 
 - 🌱 <strong>Informaçẽos sobre o que você está estudando no momento (Áreas, linguagens)</strong>
 
