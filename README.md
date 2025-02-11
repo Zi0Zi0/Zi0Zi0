@@ -5,7 +5,7 @@
   
 - 👦 Eu sou <strong>José Carlos</strong> de <strong>Recife,PE</strong>
 
-- 🔭 Atualmente cursando <strong>Análise e Desenvolvimento de Sistema<strong> na Faculdade SENAC
+- 🔭 Estou cursando <strong>Análise e Desenvolvimento de Sistema<strong> na Faculdade SENAC
 
 - 🌱 Atualmente vou começar a estudar Python
 
