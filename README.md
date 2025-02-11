@@ -7,9 +7,7 @@
 
 - 🔭 Atualmente cursando <strong>Análise e Desenvolvimento de Sistema<strong> na Faculdade <strong>SENAC/curso</strong>
 
-- 🌱 <strong>Informaçẽos sobre o que você está estudando no momento (Áreas, linguagens)</strong>
-
-- 👯 Eu estou procurando colaborar em projetos open source.
+- 🌱 Atualmente vou começar a estudar </strong>Python</strong>
 
 - 💬 Pergunte-me sobre <strong>Seus interesses</strong>
 </p>
