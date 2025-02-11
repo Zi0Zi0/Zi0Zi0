@@ -1,31 +1,23 @@
-<h2> Oi gente, eu sou <strong>José Carlos</strong>. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<h3> :man_office_worker: 💻 Quem sou eu: </h3>
+<p align="center"><b>Sobre mim</b></p>
 
-- 🎓 &nbsp; <strong>Faculdade: SENAC</strong>
-- :computer: &nbsp; <strong>Cursando: Analise e Desenvolvimento de Sistema</strong>
-
-<h3>:atom: Competências Técnicas: </h3>
-
-- 💻 &nbsp; <strong>Suas linguagens de programação</strong>
-- 🌐 &nbsp; <strong>Suas áreas de atuação (Android, Desktop, Web)</strong>
-- 🛢 &nbsp; <strong>Seus bancos de dados</strong>
-- 🔧 &nbsp; <strong>Suas IDES</strong>
-
-
-<div align="center">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+<p align="left">
   
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-  
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+- 👦 Eu sou <strong>Nome</strong> de <strong>Estado</strong>
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-<div>
+- 🔭 <strong>Informações sobre sua faculdade/curso</strong>
+
+- 🌱 <strong>Informaçẽos sobre o que você está estudando no momento (Áreas, linguagens)</strong>
+
+- 👯 Eu estou procurando colaborar em projetos open source.
+
+- 💬 Pergunte-me sobre <strong>Seus interesses</strong>
+</p>
+<p align="center">📫<b>Meus contatos</br></p>
+
+<p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.facebook.com/SEU_FACE_AQUI?ref=bookmarks" target="_blank"> <img align="center" src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;
+<a href = "https://www.instagram.com/SEU_INSTA_AQUI" target="_blank"><img align="center" src="https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
+<a href = "https://www.linkedin.com/in/SEU_LINKEDIN_AQUI-4b872715a/" target="_blank"><img align="center" src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
+<a href = "SEU_SITE_PESSOAL_AQUI" target="_blank"><img align="center" src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a>
+</p>
