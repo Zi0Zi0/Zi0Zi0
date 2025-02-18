@@ -9,7 +9,6 @@
 
 - 🌱 Atualmente vou começar a estudar Python
 
-- 💬 Pergunte-me sobre <strong>Seus interesses</strong>
 </p>
 <p align="center">📫<b>Meus contatos</br></p>
 
